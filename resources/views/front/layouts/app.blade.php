@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en_AU" />
+<html class="no-js" lang="en_AU" >
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>J. JobsPH | Find Best Jobs</title>
